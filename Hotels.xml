@@ -13,7 +13,7 @@
 		</Address>
 	</Hotel>
 
-	<Hotel Name="Holiday Inn Express and Suites" Rating="4.2" NearestAirport="Sky Harbor">
+	<Hotel Name="Holiday Inn Express and Suites" Rating="4.2">
 		<Phone>602-453-9900</Phone>
 		<Address>
 			<Number>3401</Number>
@@ -24,11 +24,11 @@
 		</Address>
 	</Hotel>
 
-	<Hotel Name="Graduate Tempe" Rating="0.0">
-		<Phone></Phone>
+	<Hotel Name="Graduate Tempe" Rating="3.9">
+		<Phone>480-967-9431</Phone>
 		<Address>
 			<Number>301</Number>
-			<Street>E Orange St.</Street>
+			<Street>E Orange St</Street>
 			<City>Tempe</City>
 			<State>AZ</State>
 			<Zip>85281</Zip>
@@ -90,7 +90,7 @@
 		</Address>
 	</Hotel>
 
-	<Hotel Name="Tempe Mission Palms, a Destination by Hyatt Hotel" Rating="4.4" NearestAirport="Sky Harbor">
+	<Hotel Name="Tempe Mission Palms" Rating="4.4">
 		<Phone>480-894-1400</Phone>
 		<Address>
 			<Number>60</Number>
@@ -101,7 +101,7 @@
 		</Address>
 	</Hotel>
 
-	<Hotel Name="AC Hotel Phoenix Tempe/Downtown" Rating="4.4" NearestAirport="Sky Harbor">
+	<Hotel Name="AC Hotel Phoenix Tempe Downtown" Rating="4.4" NearestAirport="Sky Harbor">
 		<Phone>480-642-6140</Phone>
 		<Address>
 			<Number>100</Number>
