@@ -2,22 +2,22 @@
 <Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="Hotels.xsd">
 
-	<!-- Error #1 (root should be Hotels, not Hotel) -->
+	<!-- root should be Hotels, not Hotel -->
 	<Hotel Rating="4.2" NearestAirport="Sky Harbor">
-		<!-- Error #2 missing required attribute Name -->
+		<!--missing required attribute Name -->
 		<Phone>480-968-8885</Phone>
-		<!-- Error #3 missing second Phone element -->
+		<!--  missing second Phone element -->
 		<Address>
 			<Number>11</Number>
 			<Street>E 7th St</Street>
 			<City>Tempe</City>
 			<State>AZ</State>
-			<!-- Error #4 no closing tag for Address Zip -->
+			<!-- no closing tag for Address Zip -->
 			<Zip>85281</Zip>
     </Address>
 	</Hotel>
 
-	<!-- Error #5 two Name elements for same hotel -->
+	<!--two Name elements for same hotel -->
 	<Hotel Name="Hilton Garden Inn" Rating="4.1">
 		<Phone>480-966-7000</Phone>
 		<Address>
